@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "do3PCA"]
+	path = do3PCA
+	url = https://github.com/cran/do3PCA
 [submodule "ratematrix"]
 	path = ratematrix
 	url = https://github.com/caetanods/ratematrix
