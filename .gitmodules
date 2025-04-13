@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "do3PCA"]
 	path = do3PCA
-	url = https://github.com/cran/do3PCA
+	url = https://github.com/caetanods/do3pca
 [submodule "ratematrix"]
 	path = ratematrix
 	url = https://github.com/caetanods/ratematrix
